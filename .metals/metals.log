@@ -1,0 +1,11 @@
+2023.02.02 22:00:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/nur/Desktop/Learning-Scala/.metals/lsp.trace.json or /home/nur/.cache/metals/lsp.trace.json[0m
+2023.02.02 22:00:53 INFO  logging to file /home/nur/Desktop/Learning-Scala/.metals/metals.log[0m
+2023.02.02 22:00:53 INFO  Started: Metals version 0.11.10 in workspace '/home/nur/Desktop/Learning-Scala' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/nur/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.02 22:01:00 INFO  time: initialize in 7.67s[0m
+2023.02.02 22:01:03 WARN  Build server is not auto-connectable.[0m
