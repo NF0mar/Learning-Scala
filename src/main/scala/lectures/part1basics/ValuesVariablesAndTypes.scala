@@ -34,4 +34,5 @@ object ValuesVariablesAndTypes extends App {
   var anint: Int = 8472
   var magac: String = "Nur"
   var short: Short = 8754
+  var bool: Boolean = false
 }
