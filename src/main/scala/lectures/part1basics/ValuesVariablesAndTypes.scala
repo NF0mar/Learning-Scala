@@ -35,4 +35,5 @@ object ValuesVariablesAndTypes extends App {
   var magac: String = "Nur"
   var short: Short = 8754
   var bool: Boolean = false
+  var afloat: Float = 89.38
 }
